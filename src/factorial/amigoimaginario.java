@@ -10,9 +10,6 @@ package factorial;
  * 
  * @author Victor Alvarez <japogaitero at gmail.com>
  */
-public class claseprueba {
-//realizando cambios en el amigo imaginario 
-    // mas pruebs 
-    
-    
+public class amigoimaginario {
+
 }
